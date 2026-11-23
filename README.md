@@ -1,6 +1,6 @@
 ### Hi there, I'm Khaled Abderrahim Dechira 👋
 
-🎓 2nd-Year Computer Science Engineering Student (State Engineer Track) at Université Tahri Mohammed de Béchar  
+🎓 2nd-Year Computer Science Engineering Student (State Engineer Track)   
 💻 Focused on Data Structures & Algorithms, Java (OOP), Information Systems & Web/Mobile Development  
 🔐 Future interests: Cybersecurity & Artificial Intelligence  
 
